@@ -7,7 +7,6 @@ Version: 1.0
 
 # Import modules
 import cv2
-import os
 
 
 class ImageProcessing:
